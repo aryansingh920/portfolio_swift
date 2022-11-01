@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "abstract-white-and-grey-gradient-color-with-oblique-lines-stripes-background-geometric-minimal-pattern-modern-sleek-texture-simple-paper-cut-concept-illustration-vector.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
